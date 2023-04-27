@@ -1,4 +1,4 @@
-# Building on ICP Blockchain: A Hands-on Workshop for Bicolano Developers
+# How to Create Canister and Deploy a DApp on the ICP Blockchain
 
 ## Tools
 * [Node](https://nodejs.org/en/) (LTS / Long Term Support version)
