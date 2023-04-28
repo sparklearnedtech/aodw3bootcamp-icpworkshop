@@ -166,5 +166,5 @@
 	* To IC Network\
 		Deploy to IC main network with minimum amount of cycles at 300 billion
 		```
-		dfx deploy --network ic create <canister-name> --with-cycles 300000000000
+		dfx deploy --network ic --with-cycles 300000000000
 		```
